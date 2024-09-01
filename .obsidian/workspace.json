@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "9d20d8a8217b21ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "160356b7ac329ec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d61d5cd5573af4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eda7e4e0dfdede7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "207b79ae9e55c808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40a0f8e3082fd252",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cc402e007231cc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"aliases\":",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cf3a7637cfcaea4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce462cb9c4a2a2df",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b61d735fa11576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "647a7f9c59147709",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c042caec88ba271a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1da5c03213355ef2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c3f56ae7fa84eeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "5d61d5cd5573af4d",
+  "lastOpenFiles": [
+    "SubTusks/9. Очистить топик test1.md",
+    "System/Cache/Pasted image 20240902022045.png",
+    "System/Cache/Pasted image 20240902021705.png",
+    "System/Cache/Pasted image 20240902021554.png",
+    "System/Cache/Pasted image 20240902021201.png",
+    "Task.md",
+    "SubTusks/8. Посмотреть сообщения в топике test1.md",
+    "SubTusks/7. Записать несколько тестовых сообщений в топик test1.md",
+    "SubTusks/6. Вывести описание для топика test1.md",
+    "SubTusks/5. Вывести список всех топиков..md",
+    "SubTusks/4. Создать топик  test1, test2 со свойствами replication-factor – 1, partitions – 2.md",
+    "SubTusks/3. Установить и запустить Apache Kafka.md",
+    "SubTusks/2. Установить и запустить Apache Zookeeper.md",
+    "SubTusks/1. Установить виртуальную машину с ОС Linux.md",
+    "System/Cache/Pasted image 20240902020608.png",
+    "System/Cache/Pasted image 20240902020111.png",
+    "System/Cache/Pasted image 20240902015707.png",
+    "System/Cache/Pasted image 20240902015531.png",
+    "System/Cache/Pasted image 20240902014837.png",
+    "System/Cache/Pasted image 20240902012328.png",
+    "2024-09-02.md",
+    "SubTusks",
+    "Задачи/Развернуть стенд с OS Fedora на гипервизоре KVM..md",
+    "SkillTest/Отчёт о выполнении тестового задания..md",
+    "Задачи/Установить и запустить Apache Kafka..md",
+    "Задачи/Установить и запустить Apache Zookeeper.md",
+    "Задачи/Создать топики test1, test2 (replication-factor – 1, partitions – 2).md",
+    "2024-08-30.md",
+    "Подзадачи",
+    "SkillTest/preface.md",
+    "SkillTestSber/README.md",
+    "SkillTestSber",
+    "git.pub",
+    "git",
+    "SkillTest/Preface.md",
+    "Задачи",
+    "SkillTest",
+    "System/Templates/Note Template.md",
+    "System/Templates/Map of Content.md",
+    "2024-08-29.md",
+    "System/Cache",
+    "System",
+    "Добро пожаловать.md",
+    "System/Templates"
+  ]
+}
